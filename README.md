@@ -1,4 +1,4 @@
-#Funcionamiento del proyecto
+# Funcionamiento del proyecto
 
 El proyecto consta de 4 microservicios, para iniciarlo deberas clonar el proyecto y depsues hacer estos pasos:
 
